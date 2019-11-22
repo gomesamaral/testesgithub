@@ -1,0 +1,28 @@
+Comandos git
+
+1 - GIT CLONE <url>
+copia o repositorio da nuvem
+
+2 - git add .
+adiciona as mudancas na linha do tempo
+
+3 - git commit -m "<mudancas feitas>"
+cria um novo nome pra mudancas
+
+4 - git push 
+envia as mudancas pra nuvem
+
+5 - git pull
+baixa as mudancas da nuvem
+
+6-git status
+mostra as mudancas locais
+	
+	
+7-git fetch
+baixa as mudancas da nuvem
+
+
+7 como alterar o usuario e email
+git config --global user.email "felipe.gomes.amaral@outlook.com"
+git config --global user.name "gomesamaral"
